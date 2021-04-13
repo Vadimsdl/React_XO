@@ -1,2 +1,2 @@
-first project for react \n
+first project for react
 THAT START NEW EPOCH !!!!!
